@@ -30,9 +30,9 @@ sender_password = "your_app_password"
 file_path = "path/to/resume.pdf"
 
 ### 3. Gmail Configuration
-- **Enable "Less secure app access"
+- Enable "Less secure app access"
 
-- **Create App Password if using 2FA
+- Create App Password if using 2FA
 
 ### 4. Run application
 ```bash
