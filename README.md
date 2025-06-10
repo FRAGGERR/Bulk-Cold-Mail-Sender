@@ -21,8 +21,14 @@ A powerful and user-friendly **Streamlit** application to automate sending perso
 ```bash
 pip install streamlit
 ```
+### 2. Clone the Repository
 
-### 2. Configure secrets.toml
+```bash
+git clone https://github.com/yourusername/cold-email-sender.git
+cd cold-email-sender
+```
+
+### 3. Configure secrets.toml
 Create .streamlit/secrets.toml with:
 
 toml
@@ -33,12 +39,12 @@ sender_password = "your_app_password"
 [attachment]
 file_path = "path/to/resume.pdf"
 
-### 3. Gmail Configuration
+### 4. Gmail Configuration
 - Enable "Less secure app access"
 
 - Create App Password if using 2FA
 
-### 4. Run application
+### 5. Run application
 ```bash
 streamlit run app.py
 ```
