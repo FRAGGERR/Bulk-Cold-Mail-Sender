@@ -48,3 +48,11 @@ file_path = "path/to/resume.pdf"
 ```bash
 streamlit run app.py
 ```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Authors
+
+- [@hardikchhipa](https://github.com/FRAGGERR))
