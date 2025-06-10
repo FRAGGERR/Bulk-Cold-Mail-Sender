@@ -48,6 +48,16 @@ file_path = "path/to/resume.pdf"
 ```bash
 streamlit run app.py
 ```
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  https://coldmail-sender.streamlit.app/
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
