@@ -19,7 +19,7 @@ A powerful and user-friendly **Streamlit** application to automate sending perso
 ## Setup
 ### 1. Install dependencies
 ```bash
-pip install streamlit
+pip install -r requirements.txt
 ```
 ### 2. Clone the Repository
 
