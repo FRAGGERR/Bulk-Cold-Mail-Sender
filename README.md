@@ -24,7 +24,7 @@ pip install streamlit
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cold-email-sender.git
+git clone [https://github.com/yourusername/cold-email-sender.git](https://github.com/FRAGGERR/Bulk-Cold-Mail-Sender.git)
 cd cold-email-sender
 ```
 
