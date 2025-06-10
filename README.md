@@ -36,5 +36,5 @@ file_path = "path/to/resume.pdf"
 
 ### 4. Run application
 ```bash
-streamlit run cold_email_sender.py
+streamlit run app.py
 ```
