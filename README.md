@@ -1,17 +1,21 @@
-# Cold Email Sender - Streamlit Application
+# 📧 Cold Email Sender — Streamlit App
 
-## Overview
-Professional email automation tool for sending personalized cold emails with attachments to multiple recipients using Gmail's SMTP server.
+A powerful and user-friendly **Streamlit** application to automate sending personalized cold emails with optional resume attachments. Ideal for job seekers targeting multiple roles such as Data Analyst, Data Scientist, and Machine Learning Engineer.
 
-## Features
-- **Multi-recipient emailing**
-- **Professional templates** (Data Analyst/Data Scientist/ML Engineer)
-- **Resume attachment** (predefined or custom upload)
-- **Real-time progress tracking**
-- **CC/BCC support**
-- **Email customization**
-- **Authentication error handling**
+---
 
+## 🚀 Features
+
+- 🔐 **Secure Gmail Integration** using credentials stored in `secrets.toml`
+- 🧩 **Predefined Email Templates** for common job roles
+- ✍️ **Editable Subject & Message Body**
+- 📎 **Attach Resume Automatically** or via Upload
+- 📬 **Bulk Recipient Entry** with Progress Tracking
+- 🛠️ **Advanced Options** like CC and BCC
+- 📊 **Real-time Success/Error Feedback** for each email sent
+- 💡 **Session State Management** for persistent user selections
+
+---
 ## Setup
 ### 1. Install dependencies
 ```bash
