@@ -65,7 +65,7 @@ streamlit run app.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Image](https://github.com/user-attachments/assets/a29b8b1e-6f0b-4979-8928-d27ab395e5fc)
 
 
 ## Deployment
